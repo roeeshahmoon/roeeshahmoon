@@ -10,7 +10,7 @@ I am always looking for new challenges and opportunities to grow and expand my s
 My site -https://roeeshahmoon.github.io/roee-protfolio/index.html
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roee-shahmoon-9a2785237/) 
 
 # 💻 Tech Stack:
