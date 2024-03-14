@@ -1,11 +1,9 @@
 # 💫 About Me:
-As a third-year computer engineering student, I am passionate about using my skills and knowledge to solve real-world problems through technology. 
-
-With a strong foundation in computer science and electrical engineering, I am well-equipped to design, develop, and maintain complex systems. 
-
-I am a quick learner and thrive in team environments, where I can collaborate with others to create innovative solutions. 
-
-I am always looking for new challenges and opportunities to grow and expand my skillset, and I am excited to see where my career in computer engineering will take me.
+I am fourth-year Computer Engineering student at Ben Gurion University.
+Proficient in a diverse programming languages like Python, C, C++, VHDL, Verilog, System Verilog.
+I have completed numerous projects in those fields.
+Experienced from work in backend development with a focus on Python and TypeScript, specializing in database management using SQL.
+Seeking opportunities in Backend Software, RT Embedded Systems, Chip Design, Firmware and Hardware Verification.
 
 My site -https://roeeshahmoon.github.io/roee-protfolio/index.html
 
