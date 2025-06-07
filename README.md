@@ -1,13 +1,13 @@
 # 💫 About Me:
-I am fourth-year Computer Engineering student at Ben Gurion University.
+I am a fourth-year Computer Engineering student at Ben-Gurion University with hands-on experience in both software and hardware development. 
 
-Proficient in a diverse programming languages like Python, C, C++, VHDL, Verilog, System Verilog.
+I currently work as an FPGA Engineer at ELTA Systems, where I implement real-time signal processing algorithms on AMD Xilinx Versal platforms using C++ for AI Engines, alongside golden model validation in Python and MATLAB.
 
-I have completed numerous projects in those fields.
+Previously, I worked as a Backend Developer at Circles AI, building scalable backend services in Python and TypeScript, with a focus on SQL databases and AWS integration.
 
-Experienced from work in backend development with a focus on Python and TypeScript, specializing in database management using SQL.
+I’m proficient in C, C++, Python, VHDL, Verilog, and SystemVerilog, and have completed numerous projects in those fields.
 
-Seeking opportunities in Backend Software, RT Embedded Systems, Chip Design, Firmware and Hardware Verification.
+Seeking opportunities in FPGA/Chip Design, RT Embedded Systems, Firmware and Hardware Verification.
 
 My site -https://roeeshahmoon.github.io/roee-protfolio/index.html
 
