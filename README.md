@@ -9,7 +9,7 @@ I’m proficient in C, C++, Python, VHDL, Verilog, and SystemVerilog, and have c
 
 Seeking opportunities in FPGA/Chip Design, RT Embedded Systems, Firmware and Hardware Verification.
 
-My site -https://roeeshahmoon.github.io/roee-protfolio/index.html
+My site - https://roeeshahmoon.github.io/roee-protfolio/index.html
 
 
 # 🌐 Socials:
