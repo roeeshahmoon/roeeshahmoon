@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a fourth year Computer Engineering student at Ben-Gurion University with hands-on experience in both software and hardware development. 
+I am a Computer Engineering graduate from Ben-Gurion University with hands-on experience in both software and hardware development. 
 
 I currently work as an Embedded Engineer at ELTA Systems LTD, where I implement real-time signal processing algorithms on AMD Xilinx Versal platforms using C++ for AI Engines, alongside golden model validation in Python and MATLAB.
 
