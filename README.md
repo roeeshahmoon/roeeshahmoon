@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a fourth year Computer Engineering student at Ben-Gurion University with hands-on experience in both software and hardware development. 
 
-I currently work as an FPGA Engineer at ELTA Systems, where I implement real-time signal processing algorithms on AMD Xilinx Versal platforms using C++ for AI Engines, alongside golden model validation in Python and MATLAB.
+I currently work as an Embedded Engineer at ELTA Systems LTD, where I implement real-time signal processing algorithms on AMD Xilinx Versal platforms using C++ for AI Engines, alongside golden model validation in Python and MATLAB.
 
 Previously, I worked as a Backend Developer at Circles AI, building scalable backend services in Python and TypeScript, with a focus on SQL databases and AWS integration.
 
