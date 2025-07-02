@@ -7,7 +7,7 @@ Previously, I worked as a Backend Developer at Circles AI, building scalable bac
 
 I’m proficient in C, C++, Python, VHDL, Verilog and SystemVerilog, and have completed numerous projects in those fields.
 
-Seeking opportunities in FPGA/Chip Design, RT Embedded Systems, Firmware and Hardware Verification.
+Seeking opportunities in RT Embedded, Firmware, FPGA, Chip Design and Hardware Verification.
 
 My site - https://roeeshahmoon.github.io/roee-protfolio/index.html
 
